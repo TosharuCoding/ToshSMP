@@ -1,1 +1,0 @@
-java -jar mohist-1.12.2-240-server.jar pause
